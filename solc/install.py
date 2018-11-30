@@ -32,7 +32,7 @@ V0_4_22 = 'v0.4.22'
 V0_4_23 = 'v0.4.23'
 V0_4_24 = 'v0.4.24'
 V0_4_25 = 'v0.4.25'
-
+#TODO Install v0.5.0
 
 LINUX = 'linux'
 OSX = 'darwin'
